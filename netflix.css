@@ -11,7 +11,7 @@
     height: 99vh;
     background-image: 
     radial-gradient(circle, rgba(13,13,14,1) 0%, rgba(12,12,12,0.8016456582633054) 35%), 
-    url(Netflix.jpg);
+    url(./Assets/Netflix.jpg);
 }
 .nav{
     width: 100%;
@@ -263,17 +263,6 @@
     justify-content: left;
     align-items: center;
 }
-/* .box6 button:nth-child(2){
-    width: 1100px;
-    height: 70px;
-    background-color: darkgray;
-    color: white;
-    font-size: 30px;
-    margin-top: 30px;
-    display: flex;
-    justify-content: left;
-    align-items: center;
-} */
 .box6 button:hover{
     background-color: gray;
 }
@@ -281,7 +270,6 @@
     font-size: 25px;
     color: white;
     margin-top: 65px;
-
 }
 #btnbx6{
    width: 400px;
@@ -320,10 +308,12 @@
     align-items: center;
     position: relative;
 }
+#box7h2{
+    margin-top: -110px;
+}
 .sec1 h2{
     font-size: 18px;
     color: white;
-    /* margin-left: -450px; */
     margin-top: -190px;
 }
 .sec1 a{
@@ -346,7 +336,6 @@
     justify-content: center;
     align-items: center;
     color: white;
-
 }
 .sec2{
     width: 33.33%;
@@ -364,9 +353,3 @@
     justify-content: center;
     align-items: center;
 }
-/* .sec1 ul{
-    margin-top: 170px;
-}
-#box7h2{
-    margin-bottom: -50px;
-} */
